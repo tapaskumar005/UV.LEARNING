@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>UV LEARNING</title>
+    </head>
+    <body>
+GENERAL KNOWLEDGE AND FACTS 
+      <img src= " https://st3.depositphotos.com/9543826/15098/v/1600/depositphotos_150988314-stock-illustration-gk-connected-letters-logo.jpg" height ="300px" width=350px/> 
+      
+      <h3>Follow On Instagram For More </h3>
+      <a href = "https://instagram.com/uvlearning?utm_medium=copy_link"> </a>
+    <li> Q.1 What’s the Color of Mirror?
+
+Ans : Green </li>
+
+<li>Q.2 Most peaceful country in the world
+
+Ans: Iceland</li>
+
+<li>Q.3 How Much Of Our Brain Do We Use?
+
+Ans : 100%</li>
+<li>
+Q.4 Person to win all the 4 civillian awards (BR, PV, PB, PS)
+
+Ans : Satyajit Ray, Bismilla Khan, Pt. Bhimsen Joshi
+</li>
+    
+<li>
+Q.5 Most war-stricken country in the world
+
+Ans : Syria
+</li>
+<li>
+Q.6 Where Do Permanently Deleted Files Go In Computers?
+
+Ans : Nowhere, it is still there.</li>
+
+Q.7 Person known as Shehanshah of Bollywood
+
+Ans : Amitabh Bacchan</li>
+<li>
+Q.8 Country which do not have any mosquito
+
+Ans : Iceland</li><li>
+
+Q.9 What Is The Resolution Of The Human Eye?
+
+Ans : 576 Megapixels</li><li>
+
+Q.10 Person known as Badshah of Bollywood
+
+Ans : Shah Rukh Khan
+</li><li>
+Q.11 Oldest country in the world
+
+Ans : San Marino</li><li>
+
+Q.12 Does Sunlight Weigh Anything?
+
+Ans : Yes (by weight we mean mass)</li><li>
+
+Q.13 Roof of the World
+
+Ans : Plateau of Tibet</li><li>
+
+Q.14 Newest country in the world
+
+Ans : South Sudan
+</li><li>
+Q.15 Where Is The Center Of The Universe?
+
+Ans : Everywhere
+</li><li>
+Q.16 Human Equator of the Earth
+
+Ans : Himalayas</li><li>
+
+Q.17 Largest island in the world
+
+Ans : Greenland
+</li><li>
+Q.18 Which Came First – The Egg or The Chicken?
+
+Ans : The Egg</li>
+<li>
+Q.19 Hanging Valleys
+
+Ans : Valley of Switzerland</li>
+<li>
+Q.20 Largest archipelago (group of islands) in the world
+
+Ans : Indonesia</li>
+<li>
+Q.21 What If Everyone On Earth Jumped At Once?
+
+Ans : Nothing
+</li>
+<li>Q.22 Holy Land
+
+Ans : Palestine</li>
+<li>
+Q.23 Most densely populated country in the world
+
+Ans : Monaco
+</li>
+<li>Q.24 Can You Fire A Gun In Space?
+
+Ans : Yes
+</li>
+
+<li>Q.25 Land of thunderbolt
+
+Ans : Bhutan</li>
+
+
+    </body>
+</html>
